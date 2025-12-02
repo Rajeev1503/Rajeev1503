@@ -42,8 +42,8 @@ Strong foundation in software development, actively learning and refining backen
 ---
 
 ## 🚀 Projects
-- [Laeyrd](https://github.com/theenggs/laeyrd) – A platform I’m building  
-- [TheEnggs](https://github.com/theenggs) – Co-building innovative solutions
+- [Laeyrd](https://github.com/theenggs/laeyrd) – A fully interactive VS Code theme builder that lets you edit colors, tokens, and UI styles in real time and create theme without touching JSON.  
+- [TheEnggs](https://github.com/theenggs) – Co-building space to build weird stuffs.
 
 ---
 
